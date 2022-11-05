@@ -16,7 +16,7 @@ let PostalCodeslist=[
     {District:'Narayanganj', Area:'Narayanganj City', Postal_codes:1400 },
     {District:'Narsingdi', Area:'Narsingdi City', Postal_codes:1600-5 },
     {District:'Rajbari', Area:'Rajbari City', Postal_codes:	7700/7710-11 },
-    {District:'Shariatpur', Area:'Shariatpur City', Postal_codes:8000-2},
+    {District:'Shariatpur', Area:'Shariatpur City', Postal_codes:8000-2}
 
 ]
 export {PostalCodeslist};
